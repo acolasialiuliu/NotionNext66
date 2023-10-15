@@ -4,7 +4,7 @@ import Link from 'next/link'
 import CONFIG from '../config'
 import SocialButton from './SocialButton'
 // import CONFIG from '../config_simple'
-<meta name="baidu-site-verification" content="codeva-laKiVo8NdZ" />
+
 /**
  * 网站顶部
  * @returns
