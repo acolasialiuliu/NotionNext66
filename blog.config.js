@@ -324,8 +324,8 @@ const BLOG = {
   ANALYTICS_ACKEE_DATA_SERVER: process.env.NEXT_PUBLIC_ANALYTICS_ACKEE_DATA_SERVER || '', // e.g https://ackee.tangly1024.com , don't end with a slash
   ANALYTICS_ACKEE_DOMAIN_ID: process.env.NEXT_PUBLIC_ANALYTICS_ACKEE_DOMAIN_ID || '', // e.g '82e51db6-dec2-423a-b7c9-b4ff7ebb3302'
 
-  SEO_GOOGLE_SITE_VERIFICATION:
-        process.env.NEXT_PUBLIC_SEO_GOOGLE_SITE_VERIFICATION || '', // Remove the value or replace it with your own google site verification code
+  SEO_BING_SITE_VERIFICATION:
+        process.env.NEXT_PUBLIC_SEO_BING_SITE_VERIFICATION || '8369C4A31044926108A561ECF8B7C44F', // Remove the value or replace it with your own google site verification code
 
   SEO_BAIDU_SITE_VERIFICATION:
         process.env.NEXT_PUBLIC_SEO_BAIDU_SITE_VERIFICATION || 'codeva-laKiVo8NdZ', // Remove the value or replace it with your own google site verification code
